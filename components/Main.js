@@ -14,6 +14,8 @@ export default function Main({result,setResult}){
   
       }
       setResult([...result,obj])
+      {console.log(result)};
+
       /** */
       
       // event.target.location.value
