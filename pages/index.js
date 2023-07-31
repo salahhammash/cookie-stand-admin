@@ -9,7 +9,7 @@ import LoginForm from "@/components/LoginForm";
 
 import Home from "@/components/Home";
 
-export default function allinfo() {
+export default function Allinfo() {
   // const [result,setResult] = useState([])
 
   const { user } = useAuth()
